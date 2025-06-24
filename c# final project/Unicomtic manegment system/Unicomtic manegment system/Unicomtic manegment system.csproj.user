@@ -1,0 +1,98 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="view\admindashboard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="view\admindashboardview.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="view\Attandance.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="view\course.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="view\exame.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="view\feedback.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="view\lecture.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="view\lecturerdashboar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="view\lectureviews.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="view\loginaddmin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="view\Room.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="view\second.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="view\staffadd.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="view\Staffdashboard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="view\staffdashboardview.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="view\Studendashboard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="view\studentadd.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="view\studentdashboardview.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="view\Subject.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="view\timetable.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="view\userlogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="view\Usersigninu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="view\viewcoursedetails.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="view\viewdetails.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="view\viewexame.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="view\Addfeedback.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="view\viewlecturerdetails.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="view\viewstaff.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="view\viewstudent.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="view\viewtimtable.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="view\welcom.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>

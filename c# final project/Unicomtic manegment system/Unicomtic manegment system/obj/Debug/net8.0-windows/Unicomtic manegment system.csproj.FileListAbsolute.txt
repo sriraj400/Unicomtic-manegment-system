@@ -1,0 +1,192 @@
+C:\Users\Home\Videos\c# final project\Unicomtic manegment system\Unicomtic manegment system\obj\Debug\net8.0-windows\Unicomtic manegment system.csproj.GenerateResource.cache
+C:\Users\Home\Videos\c# final project\Unicomtic manegment system\Unicomtic manegment system\obj\Debug\net8.0-windows\Unicomtic manegment system.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Home\Videos\c# final project\Unicomtic manegment system\Unicomtic manegment system\obj\Debug\net8.0-windows\Unicomtic manegment system.AssemblyInfoInputs.cache
+C:\Users\Home\Videos\c# final project\Unicomtic manegment system\Unicomtic manegment system\obj\Debug\net8.0-windows\Unicomtic manegment system.AssemblyInfo.cs
+C:\Users\Home\Videos\c# final project\Unicomtic manegment system\Unicomtic manegment system\obj\Debug\net8.0-windows\Unicomtic manegment system.csproj.CoreCompileInputs.cache
+C:\Users\Home\Videos\c# final project\Unicomtic manegment system\Unicomtic manegment system\bin\Debug\net8.0-windows\Unicomtic manegment system.exe
+C:\Users\Home\Videos\c# final project\Unicomtic manegment system\Unicomtic manegment system\bin\Debug\net8.0-windows\Unicomtic manegment system.deps.json
+C:\Users\Home\Videos\c# final project\Unicomtic manegment system\Unicomtic manegment system\bin\Debug\net8.0-windows\Unicomtic manegment system.runtimeconfig.json
+C:\Users\Home\Videos\c# final project\Unicomtic manegment system\Unicomtic manegment system\bin\Debug\net8.0-windows\Unicomtic manegment system.dll
+C:\Users\Home\Videos\c# final project\Unicomtic manegment system\Unicomtic manegment system\bin\Debug\net8.0-windows\Unicomtic manegment system.pdb
+C:\Users\Home\Videos\c# final project\Unicomtic manegment system\Unicomtic manegment system\obj\Debug\net8.0-windows\Unicomtic_manegment_system.view.welcom.resources
+C:\Users\Home\Videos\c# final project\Unicomtic manegment system\Unicomtic manegment system\obj\Debug\net8.0-windows\Unicomtic manegment system.dll
+C:\Users\Home\Videos\c# final project\Unicomtic manegment system\Unicomtic manegment system\obj\Debug\net8.0-windows\refint\Unicomtic manegment system.dll
+C:\Users\Home\Videos\c# final project\Unicomtic manegment system\Unicomtic manegment system\obj\Debug\net8.0-windows\Unicomtic manegment system.pdb
+C:\Users\Home\Videos\c# final project\Unicomtic manegment system\Unicomtic manegment system\obj\Debug\net8.0-windows\Unicomtic manegment system.genruntimeconfig.cache
+C:\Users\Home\Videos\c# final project\Unicomtic manegment system\Unicomtic manegment system\obj\Debug\net8.0-windows\ref\Unicomtic manegment system.dll
+C:\Users\Home\Videos\c# final project\Unicomtic manegment system\Unicomtic manegment system\obj\Debug\net8.0-windows\Unicomtic_manegment_system.Properties.Resources.resources
+C:\Users\Home\Videos\c# final project\Unicomtic manegment system\Unicomtic manegment system\obj\Debug\net8.0-windows\Unicomtic_manegment_system.view.admindashboard.resources
+C:\Users\Home\Videos\c# final project\Unicomtic manegment system\Unicomtic manegment system\obj\Debug\net8.0-windows\Unicomtic_manegment_system.view.loginaddmin.resources
+C:\Users\Home\Videos\c# final project\Unicomtic manegment system\Unicomtic manegment system\obj\Debug\net8.0-windows\Unicomtic_manegment_system.view.second.resources
+C:\Users\Home\Videos\c# final project\Unicomtic manegment system\Unicomtic manegment system\bin\Debug\net8.0-windows\System.Data.SQLite.dll
+C:\Users\Home\Videos\c# final project\Unicomtic manegment system\Unicomtic manegment system\bin\Debug\net8.0-windows\runtimes\linux-x64\native\SQLite.Interop.dll
+C:\Users\Home\Videos\c# final project\Unicomtic manegment system\Unicomtic manegment system\bin\Debug\net8.0-windows\runtimes\osx-x64\native\SQLite.Interop.dll
+C:\Users\Home\Videos\c# final project\Unicomtic manegment system\Unicomtic manegment system\bin\Debug\net8.0-windows\runtimes\win-x64\native\SQLite.Interop.dll
+C:\Users\Home\Videos\c# final project\Unicomtic manegment system\Unicomtic manegment system\bin\Debug\net8.0-windows\runtimes\win-x86\native\SQLite.Interop.dll
+C:\Users\Home\Videos\c# final project\Unicomtic manegment system\Unicomtic manegment system\obj\Debug\net8.0-windows\Unicomtic manegment system.csproj.AssemblyReference.cache
+C:\Users\Home\Videos\c# final project\Unicomtic manegment system\Unicomtic manegment system\obj\Debug\net8.0-windows\Unicomtic_manegment_system.view.course.resources
+C:\Users\Home\Videos\c# final project\Unicomtic manegment system\Unicomtic manegment system\obj\Debug\net8.0-windows\Unicomtic_manegment_system.view.exame.resources
+C:\Users\Home\Videos\c# final project\Unicomtic manegment system\Unicomtic manegment system\obj\Debug\net8.0-windows\Unicomtic_manegment_system.view.feedback.resources
+C:\Users\Home\Videos\c# final project\Unicomtic manegment system\Unicomtic manegment system\obj\Debug\net8.0-windows\Unicomtic_manegment_system.view.lecture.resources
+C:\Users\Home\Videos\c# final project\Unicomtic manegment system\Unicomtic manegment system\obj\Debug\net8.0-windows\Unicomtic_manegment_system.view.staffadd.resources
+C:\Users\Home\Videos\c# final project\Unicomtic manegment system\Unicomtic manegment system\obj\Debug\net8.0-windows\Unicomtic_manegment_system.view.studentadd.resources
+C:\Users\Home\Videos\c# final project\Unicomtic manegment system\Unicomtic manegment system\obj\Debug\net8.0-windows\Unicomtic_manegment_system.view.timetable.resources
+C:\Users\Home\Videos\c# final project\Unicomtic manegment system\Unicomtic manegment system\obj\Debug\net8.0-windows\Unicomtic_manegment_system.view.userlogin.resources
+C:\Users\Home\Videos\c# final project\Unicomtic manegment system\Unicomtic manegment system\obj\Debug\net8.0-windows\Unicomti.913BFB2E.Up2Date
+C:\Users\UT010762\Desktop\c# final project\c# final project\Unicomtic manegment system\Unicomtic manegment system\bin\Debug\net8.0-windows\Unicomtic manegment system.exe
+C:\Users\UT010762\Desktop\c# final project\c# final project\Unicomtic manegment system\Unicomtic manegment system\bin\Debug\net8.0-windows\Unicomtic manegment system.deps.json
+C:\Users\UT010762\Desktop\c# final project\c# final project\Unicomtic manegment system\Unicomtic manegment system\bin\Debug\net8.0-windows\Unicomtic manegment system.runtimeconfig.json
+C:\Users\UT010762\Desktop\c# final project\c# final project\Unicomtic manegment system\Unicomtic manegment system\bin\Debug\net8.0-windows\Unicomtic manegment system.dll
+C:\Users\UT010762\Desktop\c# final project\c# final project\Unicomtic manegment system\Unicomtic manegment system\bin\Debug\net8.0-windows\Unicomtic manegment system.pdb
+C:\Users\UT010762\Desktop\c# final project\c# final project\Unicomtic manegment system\Unicomtic manegment system\bin\Debug\net8.0-windows\System.Data.SQLite.dll
+C:\Users\UT010762\Desktop\c# final project\c# final project\Unicomtic manegment system\Unicomtic manegment system\bin\Debug\net8.0-windows\runtimes\linux-x64\native\SQLite.Interop.dll
+C:\Users\UT010762\Desktop\c# final project\c# final project\Unicomtic manegment system\Unicomtic manegment system\bin\Debug\net8.0-windows\runtimes\osx-x64\native\SQLite.Interop.dll
+C:\Users\UT010762\Desktop\c# final project\c# final project\Unicomtic manegment system\Unicomtic manegment system\bin\Debug\net8.0-windows\runtimes\win-x64\native\SQLite.Interop.dll
+C:\Users\UT010762\Desktop\c# final project\c# final project\Unicomtic manegment system\Unicomtic manegment system\bin\Debug\net8.0-windows\runtimes\win-x86\native\SQLite.Interop.dll
+C:\Users\UT010762\Desktop\c# final project\c# final project\Unicomtic manegment system\Unicomtic manegment system\obj\Debug\net8.0-windows\Unicomtic manegment system.csproj.AssemblyReference.cache
+C:\Users\UT010762\Desktop\c# final project\c# final project\Unicomtic manegment system\Unicomtic manegment system\obj\Debug\net8.0-windows\Unicomtic_manegment_system.Properties.Resources.resources
+C:\Users\UT010762\Desktop\c# final project\c# final project\Unicomtic manegment system\Unicomtic manegment system\obj\Debug\net8.0-windows\Unicomtic_manegment_system.view.admindashboard.resources
+C:\Users\UT010762\Desktop\c# final project\c# final project\Unicomtic manegment system\Unicomtic manegment system\obj\Debug\net8.0-windows\Unicomtic_manegment_system.view.course.resources
+C:\Users\UT010762\Desktop\c# final project\c# final project\Unicomtic manegment system\Unicomtic manegment system\obj\Debug\net8.0-windows\Unicomtic_manegment_system.view.exame.resources
+C:\Users\UT010762\Desktop\c# final project\c# final project\Unicomtic manegment system\Unicomtic manegment system\obj\Debug\net8.0-windows\Unicomtic_manegment_system.view.feedback.resources
+C:\Users\UT010762\Desktop\c# final project\c# final project\Unicomtic manegment system\Unicomtic manegment system\obj\Debug\net8.0-windows\Unicomtic_manegment_system.view.loginaddmin.resources
+C:\Users\UT010762\Desktop\c# final project\c# final project\Unicomtic manegment system\Unicomtic manegment system\obj\Debug\net8.0-windows\Unicomtic_manegment_system.view.second.resources
+C:\Users\UT010762\Desktop\c# final project\c# final project\Unicomtic manegment system\Unicomtic manegment system\obj\Debug\net8.0-windows\Unicomtic_manegment_system.view.staffadd.resources
+C:\Users\UT010762\Desktop\c# final project\c# final project\Unicomtic manegment system\Unicomtic manegment system\obj\Debug\net8.0-windows\Unicomtic_manegment_system.view.studentadd.resources
+C:\Users\UT010762\Desktop\c# final project\c# final project\Unicomtic manegment system\Unicomtic manegment system\obj\Debug\net8.0-windows\Unicomtic_manegment_system.view.timetable.resources
+C:\Users\UT010762\Desktop\c# final project\c# final project\Unicomtic manegment system\Unicomtic manegment system\obj\Debug\net8.0-windows\Unicomtic_manegment_system.view.userlogin.resources
+C:\Users\UT010762\Desktop\c# final project\c# final project\Unicomtic manegment system\Unicomtic manegment system\obj\Debug\net8.0-windows\Unicomtic_manegment_system.view.welcom.resources
+C:\Users\UT010762\Desktop\c# final project\c# final project\Unicomtic manegment system\Unicomtic manegment system\obj\Debug\net8.0-windows\Unicomtic manegment system.csproj.GenerateResource.cache
+C:\Users\UT010762\Desktop\c# final project\c# final project\Unicomtic manegment system\Unicomtic manegment system\obj\Debug\net8.0-windows\Unicomtic manegment system.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\UT010762\Desktop\c# final project\c# final project\Unicomtic manegment system\Unicomtic manegment system\obj\Debug\net8.0-windows\Unicomtic manegment system.AssemblyInfoInputs.cache
+C:\Users\UT010762\Desktop\c# final project\c# final project\Unicomtic manegment system\Unicomtic manegment system\obj\Debug\net8.0-windows\Unicomtic manegment system.AssemblyInfo.cs
+C:\Users\UT010762\Desktop\c# final project\c# final project\Unicomtic manegment system\Unicomtic manegment system\obj\Debug\net8.0-windows\Unicomtic manegment system.csproj.CoreCompileInputs.cache
+C:\Users\UT010762\Desktop\c# final project\c# final project\Unicomtic manegment system\Unicomtic manegment system\obj\Debug\net8.0-windows\Unicomti.913BFB2E.Up2Date
+C:\Users\UT010762\Desktop\c# final project\c# final project\Unicomtic manegment system\Unicomtic manegment system\obj\Debug\net8.0-windows\Unicomtic manegment system.dll
+C:\Users\UT010762\Desktop\c# final project\c# final project\Unicomtic manegment system\Unicomtic manegment system\obj\Debug\net8.0-windows\refint\Unicomtic manegment system.dll
+C:\Users\UT010762\Desktop\c# final project\c# final project\Unicomtic manegment system\Unicomtic manegment system\obj\Debug\net8.0-windows\Unicomtic manegment system.pdb
+C:\Users\UT010762\Desktop\c# final project\c# final project\Unicomtic manegment system\Unicomtic manegment system\obj\Debug\net8.0-windows\Unicomtic manegment system.genruntimeconfig.cache
+C:\Users\UT010762\Desktop\c# final project\c# final project\Unicomtic manegment system\Unicomtic manegment system\obj\Debug\net8.0-windows\ref\Unicomtic manegment system.dll
+C:\Users\UT010762\Desktop\c# final project\c# final project\Unicomtic manegment system\Unicomtic manegment system\obj\Debug\net8.0-windows\Unicomtic_manegment_system.view.Subject.resources
+C:\Users\Home\Videos\c# final project\c# final project\Unicomtic manegment system\Unicomtic manegment system\bin\Debug\net8.0-windows\Unicomtic manegment system.exe
+C:\Users\Home\Videos\c# final project\c# final project\Unicomtic manegment system\Unicomtic manegment system\bin\Debug\net8.0-windows\Unicomtic manegment system.deps.json
+C:\Users\Home\Videos\c# final project\c# final project\Unicomtic manegment system\Unicomtic manegment system\bin\Debug\net8.0-windows\Unicomtic manegment system.runtimeconfig.json
+C:\Users\Home\Videos\c# final project\c# final project\Unicomtic manegment system\Unicomtic manegment system\bin\Debug\net8.0-windows\Unicomtic manegment system.dll
+C:\Users\Home\Videos\c# final project\c# final project\Unicomtic manegment system\Unicomtic manegment system\bin\Debug\net8.0-windows\Unicomtic manegment system.pdb
+C:\Users\Home\Videos\c# final project\c# final project\Unicomtic manegment system\Unicomtic manegment system\bin\Debug\net8.0-windows\System.Data.SQLite.dll
+C:\Users\Home\Videos\c# final project\c# final project\Unicomtic manegment system\Unicomtic manegment system\bin\Debug\net8.0-windows\runtimes\linux-x64\native\SQLite.Interop.dll
+C:\Users\Home\Videos\c# final project\c# final project\Unicomtic manegment system\Unicomtic manegment system\bin\Debug\net8.0-windows\runtimes\osx-x64\native\SQLite.Interop.dll
+C:\Users\Home\Videos\c# final project\c# final project\Unicomtic manegment system\Unicomtic manegment system\bin\Debug\net8.0-windows\runtimes\win-x64\native\SQLite.Interop.dll
+C:\Users\Home\Videos\c# final project\c# final project\Unicomtic manegment system\Unicomtic manegment system\bin\Debug\net8.0-windows\runtimes\win-x86\native\SQLite.Interop.dll
+C:\Users\Home\Videos\c# final project\c# final project\Unicomtic manegment system\Unicomtic manegment system\obj\Debug\net8.0-windows\Unicomtic manegment system.csproj.AssemblyReference.cache
+C:\Users\Home\Videos\c# final project\c# final project\Unicomtic manegment system\Unicomtic manegment system\obj\Debug\net8.0-windows\Unicomtic_manegment_system.Properties.Resources.resources
+C:\Users\Home\Videos\c# final project\c# final project\Unicomtic manegment system\Unicomtic manegment system\obj\Debug\net8.0-windows\Unicomtic_manegment_system.view.admindashboard.resources
+C:\Users\Home\Videos\c# final project\c# final project\Unicomtic manegment system\Unicomtic manegment system\obj\Debug\net8.0-windows\Unicomtic_manegment_system.view.course.resources
+C:\Users\Home\Videos\c# final project\c# final project\Unicomtic manegment system\Unicomtic manegment system\obj\Debug\net8.0-windows\Unicomtic_manegment_system.view.exame.resources
+C:\Users\Home\Videos\c# final project\c# final project\Unicomtic manegment system\Unicomtic manegment system\obj\Debug\net8.0-windows\Unicomtic_manegment_system.view.feedback.resources
+C:\Users\Home\Videos\c# final project\c# final project\Unicomtic manegment system\Unicomtic manegment system\obj\Debug\net8.0-windows\Unicomtic_manegment_system.view.lecture.resources
+C:\Users\Home\Videos\c# final project\c# final project\Unicomtic manegment system\Unicomtic manegment system\obj\Debug\net8.0-windows\Unicomtic_manegment_system.view.loginaddmin.resources
+C:\Users\Home\Videos\c# final project\c# final project\Unicomtic manegment system\Unicomtic manegment system\obj\Debug\net8.0-windows\Unicomtic_manegment_system.view.second.resources
+C:\Users\Home\Videos\c# final project\c# final project\Unicomtic manegment system\Unicomtic manegment system\obj\Debug\net8.0-windows\Unicomtic_manegment_system.view.staffadd.resources
+C:\Users\Home\Videos\c# final project\c# final project\Unicomtic manegment system\Unicomtic manegment system\obj\Debug\net8.0-windows\Unicomtic_manegment_system.view.studentadd.resources
+C:\Users\Home\Videos\c# final project\c# final project\Unicomtic manegment system\Unicomtic manegment system\obj\Debug\net8.0-windows\Unicomtic_manegment_system.view.Subject.resources
+C:\Users\Home\Videos\c# final project\c# final project\Unicomtic manegment system\Unicomtic manegment system\obj\Debug\net8.0-windows\Unicomtic_manegment_system.view.timetable.resources
+C:\Users\Home\Videos\c# final project\c# final project\Unicomtic manegment system\Unicomtic manegment system\obj\Debug\net8.0-windows\Unicomtic_manegment_system.view.userlogin.resources
+C:\Users\Home\Videos\c# final project\c# final project\Unicomtic manegment system\Unicomtic manegment system\obj\Debug\net8.0-windows\Unicomtic_manegment_system.view.welcom.resources
+C:\Users\Home\Videos\c# final project\c# final project\Unicomtic manegment system\Unicomtic manegment system\obj\Debug\net8.0-windows\Unicomtic manegment system.csproj.GenerateResource.cache
+C:\Users\Home\Videos\c# final project\c# final project\Unicomtic manegment system\Unicomtic manegment system\obj\Debug\net8.0-windows\Unicomtic manegment system.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Home\Videos\c# final project\c# final project\Unicomtic manegment system\Unicomtic manegment system\obj\Debug\net8.0-windows\Unicomtic manegment system.AssemblyInfoInputs.cache
+C:\Users\Home\Videos\c# final project\c# final project\Unicomtic manegment system\Unicomtic manegment system\obj\Debug\net8.0-windows\Unicomtic manegment system.AssemblyInfo.cs
+C:\Users\Home\Videos\c# final project\c# final project\Unicomtic manegment system\Unicomtic manegment system\obj\Debug\net8.0-windows\Unicomtic manegment system.csproj.CoreCompileInputs.cache
+C:\Users\Home\Videos\c# final project\c# final project\Unicomtic manegment system\Unicomtic manegment system\obj\Debug\net8.0-windows\Unicomti.913BFB2E.Up2Date
+C:\Users\Home\Videos\c# final project\c# final project\Unicomtic manegment system\Unicomtic manegment system\obj\Debug\net8.0-windows\Unicomtic manegment system.dll
+C:\Users\Home\Videos\c# final project\c# final project\Unicomtic manegment system\Unicomtic manegment system\obj\Debug\net8.0-windows\refint\Unicomtic manegment system.dll
+C:\Users\Home\Videos\c# final project\c# final project\Unicomtic manegment system\Unicomtic manegment system\obj\Debug\net8.0-windows\Unicomtic manegment system.pdb
+C:\Users\Home\Videos\c# final project\c# final project\Unicomtic manegment system\Unicomtic manegment system\obj\Debug\net8.0-windows\Unicomtic manegment system.genruntimeconfig.cache
+C:\Users\Home\Videos\c# final project\c# final project\Unicomtic manegment system\Unicomtic manegment system\obj\Debug\net8.0-windows\ref\Unicomtic manegment system.dll
+C:\Users\Home\Videos\c# final project\c# final project\Unicomtic manegment system\Unicomtic manegment system\obj\Debug\net8.0-windows\Unicomtic_manegment_system.view.Room.resources
+C:\Users\Home\Videos\c# final project\c# final project\Unicomtic manegment system\Unicomtic manegment system\obj\Debug\net8.0-windows\Unicomtic_manegment_system.view.Usersigninu.resources
+C:\Users\Home\Videos\c# final project\c# final project\Unicomtic manegment system\Unicomtic manegment system\obj\Debug\net8.0-windows\Unicomtic_manegment_system.view.lecturerdashboar.resources
+C:\Users\Home\Videos\c# final project\c# final project\Unicomtic manegment system\Unicomtic manegment system\obj\Debug\net8.0-windows\Unicomtic_manegment_system.view.Staffdashboard.resources
+C:\Users\Home\Videos\c# final project\c# final project\Unicomtic manegment system\Unicomtic manegment system\obj\Debug\net8.0-windows\Unicomtic_manegment_system.view.Studendashboard.resources
+C:\Users\Home\Videos\c# final project\c# final project\Unicomtic manegment system\Unicomtic manegment system\obj\Debug\net8.0-windows\Unicomtic_manegment_system.view.studentdashboardview.resources
+C:\Users\Home\Videos\c# final project\c# final project\Unicomtic manegment system\Unicomtic manegment system\obj\Debug\net8.0-windows\Unicomtic_manegment_system.view.lecturerdashboardview.resources
+C:\Users\Home\Videos\c# final project\c# final project\Unicomtic manegment system\Unicomtic manegment system\obj\Debug\net8.0-windows\Unicomtic_manegment_system.view.staffdashboardview.resources
+C:\Users\Home\Videos\c# final project\c# final project\Unicomtic manegment system\Unicomtic manegment system\obj\Debug\net8.0-windows\Unicomtic_manegment_system.view.Addfeedback.resources
+C:\Users\Home\Videos\c# final project\c# final project\Unicomtic manegment system\Unicomtic manegment system\obj\Debug\net8.0-windows\Unicomtic_manegment_system.view.viewcoursedetails.resources
+C:\Users\Home\Videos\c# final project\c# final project\Unicomtic manegment system\Unicomtic manegment system\obj\Debug\net8.0-windows\Unicomtic_manegment_system.view.viewexame.resources
+C:\Users\Home\Videos\c# final project\c# final project\Unicomtic manegment system\Unicomtic manegment system\obj\Debug\net8.0-windows\Unicomtic_manegment_system.view.viewlecturerdetails.resources
+C:\Users\Home\Videos\c# final project\c# final project\Unicomtic manegment system\Unicomtic manegment system\obj\Debug\net8.0-windows\Unicomtic_manegment_system.view.viewstaff.resources
+C:\Users\Home\Videos\c# final project\c# final project\Unicomtic manegment system\Unicomtic manegment system\obj\Debug\net8.0-windows\Unicomtic_manegment_system.view.viewstudent.resources
+C:\Users\Home\Videos\c# final project\c# final project\Unicomtic manegment system\Unicomtic manegment system\obj\Debug\net8.0-windows\Unicomtic_manegment_system.view.viewtimtable.resources
+C:\Users\UT010762\Desktop\c# final project\c# final project\Unicomtic manegment system\Unicomtic manegment system\obj\Debug\net8.0-windows\Unicomtic_manegment_system.view.Addfeedback.resources
+C:\Users\UT010762\Desktop\c# final project\c# final project\Unicomtic manegment system\Unicomtic manegment system\obj\Debug\net8.0-windows\Unicomtic_manegment_system.view.admindashboardview.resources
+C:\Users\UT010762\Desktop\c# final project\c# final project\Unicomtic manegment system\Unicomtic manegment system\obj\Debug\net8.0-windows\Unicomtic_manegment_system.view.lecturerdashboar.resources
+C:\Users\UT010762\Desktop\c# final project\c# final project\Unicomtic manegment system\Unicomtic manegment system\obj\Debug\net8.0-windows\Unicomtic_manegment_system.view.Room.resources
+C:\Users\UT010762\Desktop\c# final project\c# final project\Unicomtic manegment system\Unicomtic manegment system\obj\Debug\net8.0-windows\Unicomtic_manegment_system.view.Staffdashboard.resources
+C:\Users\UT010762\Desktop\c# final project\c# final project\Unicomtic manegment system\Unicomtic manegment system\obj\Debug\net8.0-windows\Unicomtic_manegment_system.view.staffdashboardview.resources
+C:\Users\UT010762\Desktop\c# final project\c# final project\Unicomtic manegment system\Unicomtic manegment system\obj\Debug\net8.0-windows\Unicomtic_manegment_system.view.Studendashboard.resources
+C:\Users\UT010762\Desktop\c# final project\c# final project\Unicomtic manegment system\Unicomtic manegment system\obj\Debug\net8.0-windows\Unicomtic_manegment_system.view.studentdashboardview.resources
+C:\Users\UT010762\Desktop\c# final project\c# final project\Unicomtic manegment system\Unicomtic manegment system\obj\Debug\net8.0-windows\Unicomtic_manegment_system.view.Usersigninu.resources
+C:\Users\UT010762\Desktop\c# final project\c# final project\Unicomtic manegment system\Unicomtic manegment system\obj\Debug\net8.0-windows\Unicomtic_manegment_system.view.viewcoursedetails.resources
+C:\Users\UT010762\Desktop\c# final project\c# final project\Unicomtic manegment system\Unicomtic manegment system\obj\Debug\net8.0-windows\Unicomtic_manegment_system.view.viewexame.resources
+C:\Users\UT010762\Desktop\c# final project\c# final project\Unicomtic manegment system\Unicomtic manegment system\obj\Debug\net8.0-windows\Unicomtic_manegment_system.view.viewlecturerdetails.resources
+C:\Users\UT010762\Desktop\c# final project\c# final project\Unicomtic manegment system\Unicomtic manegment system\obj\Debug\net8.0-windows\Unicomtic_manegment_system.view.viewstaff.resources
+C:\Users\UT010762\Desktop\c# final project\c# final project\Unicomtic manegment system\Unicomtic manegment system\obj\Debug\net8.0-windows\Unicomtic_manegment_system.view.viewstudent.resources
+C:\Users\UT010762\Desktop\c# final project\c# final project\Unicomtic manegment system\Unicomtic manegment system\obj\Debug\net8.0-windows\Unicomtic_manegment_system.view.viewtimtable.resources
+C:\Users\UT010762\Desktop\c# final project\c# final project\Unicomtic manegment system\Unicomtic manegment system\obj\Debug\net8.0-windows\Unicomtic_manegment_system.view.l.resources
+C:\Users\UT010762\Desktop\c# final project\c# final project\Unicomtic manegment system\Unicomtic manegment system\obj\Debug\net8.0-windows\Unicomtic_manegment_system.view.lectureviews.resources
+C:\Users\Home\Music\c# final project\c# final project\Unicomtic manegment system\Unicomtic manegment system\bin\Debug\net8.0-windows\Unicomtic manegment system.exe
+C:\Users\Home\Music\c# final project\c# final project\Unicomtic manegment system\Unicomtic manegment system\bin\Debug\net8.0-windows\Unicomtic manegment system.deps.json
+C:\Users\Home\Music\c# final project\c# final project\Unicomtic manegment system\Unicomtic manegment system\bin\Debug\net8.0-windows\Unicomtic manegment system.runtimeconfig.json
+C:\Users\Home\Music\c# final project\c# final project\Unicomtic manegment system\Unicomtic manegment system\bin\Debug\net8.0-windows\Unicomtic manegment system.dll
+C:\Users\Home\Music\c# final project\c# final project\Unicomtic manegment system\Unicomtic manegment system\bin\Debug\net8.0-windows\Unicomtic manegment system.pdb
+C:\Users\Home\Music\c# final project\c# final project\Unicomtic manegment system\Unicomtic manegment system\bin\Debug\net8.0-windows\System.Data.SQLite.dll
+C:\Users\Home\Music\c# final project\c# final project\Unicomtic manegment system\Unicomtic manegment system\bin\Debug\net8.0-windows\runtimes\linux-x64\native\SQLite.Interop.dll
+C:\Users\Home\Music\c# final project\c# final project\Unicomtic manegment system\Unicomtic manegment system\bin\Debug\net8.0-windows\runtimes\osx-x64\native\SQLite.Interop.dll
+C:\Users\Home\Music\c# final project\c# final project\Unicomtic manegment system\Unicomtic manegment system\bin\Debug\net8.0-windows\runtimes\win-x64\native\SQLite.Interop.dll
+C:\Users\Home\Music\c# final project\c# final project\Unicomtic manegment system\Unicomtic manegment system\bin\Debug\net8.0-windows\runtimes\win-x86\native\SQLite.Interop.dll
+C:\Users\Home\Music\c# final project\c# final project\Unicomtic manegment system\Unicomtic manegment system\obj\Debug\net8.0-windows\Unicomtic manegment system.csproj.AssemblyReference.cache
+C:\Users\Home\Music\c# final project\c# final project\Unicomtic manegment system\Unicomtic manegment system\obj\Debug\net8.0-windows\Unicomtic_manegment_system.Properties.Resources.resources
+C:\Users\Home\Music\c# final project\c# final project\Unicomtic manegment system\Unicomtic manegment system\obj\Debug\net8.0-windows\Unicomtic_manegment_system.view.Addfeedback.resources
+C:\Users\Home\Music\c# final project\c# final project\Unicomtic manegment system\Unicomtic manegment system\obj\Debug\net8.0-windows\Unicomtic_manegment_system.view.admindashboard.resources
+C:\Users\Home\Music\c# final project\c# final project\Unicomtic manegment system\Unicomtic manegment system\obj\Debug\net8.0-windows\Unicomtic_manegment_system.view.admindashboardview.resources
+C:\Users\Home\Music\c# final project\c# final project\Unicomtic manegment system\Unicomtic manegment system\obj\Debug\net8.0-windows\Unicomtic_manegment_system.view.course.resources
+C:\Users\Home\Music\c# final project\c# final project\Unicomtic manegment system\Unicomtic manegment system\obj\Debug\net8.0-windows\Unicomtic_manegment_system.view.exame.resources
+C:\Users\Home\Music\c# final project\c# final project\Unicomtic manegment system\Unicomtic manegment system\obj\Debug\net8.0-windows\Unicomtic_manegment_system.view.feedback.resources
+C:\Users\Home\Music\c# final project\c# final project\Unicomtic manegment system\Unicomtic manegment system\obj\Debug\net8.0-windows\Unicomtic_manegment_system.view.l.resources
+C:\Users\Home\Music\c# final project\c# final project\Unicomtic manegment system\Unicomtic manegment system\obj\Debug\net8.0-windows\Unicomtic_manegment_system.view.lecturerdashboar.resources
+C:\Users\Home\Music\c# final project\c# final project\Unicomtic manegment system\Unicomtic manegment system\obj\Debug\net8.0-windows\Unicomtic_manegment_system.view.lectureviews.resources
+C:\Users\Home\Music\c# final project\c# final project\Unicomtic manegment system\Unicomtic manegment system\obj\Debug\net8.0-windows\Unicomtic_manegment_system.view.loginaddmin.resources
+C:\Users\Home\Music\c# final project\c# final project\Unicomtic manegment system\Unicomtic manegment system\obj\Debug\net8.0-windows\Unicomtic_manegment_system.view.Room.resources
+C:\Users\Home\Music\c# final project\c# final project\Unicomtic manegment system\Unicomtic manegment system\obj\Debug\net8.0-windows\Unicomtic_manegment_system.view.second.resources
+C:\Users\Home\Music\c# final project\c# final project\Unicomtic manegment system\Unicomtic manegment system\obj\Debug\net8.0-windows\Unicomtic_manegment_system.view.staffadd.resources
+C:\Users\Home\Music\c# final project\c# final project\Unicomtic manegment system\Unicomtic manegment system\obj\Debug\net8.0-windows\Unicomtic_manegment_system.view.Staffdashboard.resources
+C:\Users\Home\Music\c# final project\c# final project\Unicomtic manegment system\Unicomtic manegment system\obj\Debug\net8.0-windows\Unicomtic_manegment_system.view.staffdashboardview.resources
+C:\Users\Home\Music\c# final project\c# final project\Unicomtic manegment system\Unicomtic manegment system\obj\Debug\net8.0-windows\Unicomtic_manegment_system.view.Studendashboard.resources
+C:\Users\Home\Music\c# final project\c# final project\Unicomtic manegment system\Unicomtic manegment system\obj\Debug\net8.0-windows\Unicomtic_manegment_system.view.studentadd.resources
+C:\Users\Home\Music\c# final project\c# final project\Unicomtic manegment system\Unicomtic manegment system\obj\Debug\net8.0-windows\Unicomtic_manegment_system.view.studentdashboardview.resources
+C:\Users\Home\Music\c# final project\c# final project\Unicomtic manegment system\Unicomtic manegment system\obj\Debug\net8.0-windows\Unicomtic_manegment_system.view.Subject.resources
+C:\Users\Home\Music\c# final project\c# final project\Unicomtic manegment system\Unicomtic manegment system\obj\Debug\net8.0-windows\Unicomtic_manegment_system.view.timetable.resources
+C:\Users\Home\Music\c# final project\c# final project\Unicomtic manegment system\Unicomtic manegment system\obj\Debug\net8.0-windows\Unicomtic_manegment_system.view.userlogin.resources
+C:\Users\Home\Music\c# final project\c# final project\Unicomtic manegment system\Unicomtic manegment system\obj\Debug\net8.0-windows\Unicomtic_manegment_system.view.Usersigninu.resources
+C:\Users\Home\Music\c# final project\c# final project\Unicomtic manegment system\Unicomtic manegment system\obj\Debug\net8.0-windows\Unicomtic_manegment_system.view.viewcoursedetails.resources
+C:\Users\Home\Music\c# final project\c# final project\Unicomtic manegment system\Unicomtic manegment system\obj\Debug\net8.0-windows\Unicomtic_manegment_system.view.viewexame.resources
+C:\Users\Home\Music\c# final project\c# final project\Unicomtic manegment system\Unicomtic manegment system\obj\Debug\net8.0-windows\Unicomtic_manegment_system.view.viewlecturerdetails.resources
+C:\Users\Home\Music\c# final project\c# final project\Unicomtic manegment system\Unicomtic manegment system\obj\Debug\net8.0-windows\Unicomtic_manegment_system.view.viewstaff.resources
+C:\Users\Home\Music\c# final project\c# final project\Unicomtic manegment system\Unicomtic manegment system\obj\Debug\net8.0-windows\Unicomtic_manegment_system.view.viewstudent.resources
+C:\Users\Home\Music\c# final project\c# final project\Unicomtic manegment system\Unicomtic manegment system\obj\Debug\net8.0-windows\Unicomtic_manegment_system.view.viewtimtable.resources
+C:\Users\Home\Music\c# final project\c# final project\Unicomtic manegment system\Unicomtic manegment system\obj\Debug\net8.0-windows\Unicomtic_manegment_system.view.welcom.resources
+C:\Users\Home\Music\c# final project\c# final project\Unicomtic manegment system\Unicomtic manegment system\obj\Debug\net8.0-windows\Unicomtic manegment system.csproj.GenerateResource.cache
+C:\Users\Home\Music\c# final project\c# final project\Unicomtic manegment system\Unicomtic manegment system\obj\Debug\net8.0-windows\Unicomtic manegment system.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Home\Music\c# final project\c# final project\Unicomtic manegment system\Unicomtic manegment system\obj\Debug\net8.0-windows\Unicomtic manegment system.AssemblyInfoInputs.cache
+C:\Users\Home\Music\c# final project\c# final project\Unicomtic manegment system\Unicomtic manegment system\obj\Debug\net8.0-windows\Unicomtic manegment system.AssemblyInfo.cs
+C:\Users\Home\Music\c# final project\c# final project\Unicomtic manegment system\Unicomtic manegment system\obj\Debug\net8.0-windows\Unicomtic manegment system.csproj.CoreCompileInputs.cache
+C:\Users\Home\Music\c# final project\c# final project\Unicomtic manegment system\Unicomtic manegment system\obj\Debug\net8.0-windows\Unicomti.913BFB2E.Up2Date
+C:\Users\Home\Music\c# final project\c# final project\Unicomtic manegment system\Unicomtic manegment system\obj\Debug\net8.0-windows\Unicomtic manegment system.dll
+C:\Users\Home\Music\c# final project\c# final project\Unicomtic manegment system\Unicomtic manegment system\obj\Debug\net8.0-windows\refint\Unicomtic manegment system.dll
+C:\Users\Home\Music\c# final project\c# final project\Unicomtic manegment system\Unicomtic manegment system\obj\Debug\net8.0-windows\Unicomtic manegment system.pdb
+C:\Users\Home\Music\c# final project\c# final project\Unicomtic manegment system\Unicomtic manegment system\obj\Debug\net8.0-windows\Unicomtic manegment system.genruntimeconfig.cache
+C:\Users\Home\Music\c# final project\c# final project\Unicomtic manegment system\Unicomtic manegment system\obj\Debug\net8.0-windows\ref\Unicomtic manegment system.dll
+C:\Users\Home\Music\c# final project\c# final project\Unicomtic manegment system\Unicomtic manegment system\obj\Debug\net8.0-windows\Unicomtic manegment system.sourcelink.json
+C:\Users\Home\Music\c# final project\c# final project\Unicomtic manegment system\Unicomtic manegment system\obj\Debug\net8.0-windows\Unicomtic_manegment_system.view.Attandance.resources
